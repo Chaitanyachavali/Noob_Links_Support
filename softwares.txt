@@ -1,0 +1,7 @@
+http://www.dibac.com/              //3d sketch up
+https://portswigger.net/             //cyber_tool_burp
+https://www.brainasoft.com/braina/           //artificial_intelligince
+http://www.mersenne.org/download/               //stress_test
+https://blisk.io/product                         //web_development
+https://github.com/jiahaog/nativefier/blob/development/screenshots/walkthrough.gif          //webpage_to_app
+http://antirez.com/news/108                 //code_editor
