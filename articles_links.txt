@@ -123,3 +123,4 @@ http://www.parkansky.com/tutorials/bdlogcgi.htm
 https://www.analyticsvidhya.com/blog/2016/04/15-read-books-entrepreneurs-data-science/   
 http://blog.hackersonlineclub.com/2016/09/security-researcher-found-facebook.html
 http://www.rollingstone.com/culture/news/steve-jobs-in-1994-the-rolling-stone-interview-20110117           //explaing_oops_concept
+https://techcrunch.com/2016/09/27/ibm-releases-dataworks-to-give-enterprise-data-a-home-and-a-brain/
