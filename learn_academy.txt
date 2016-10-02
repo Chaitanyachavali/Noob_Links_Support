@@ -46,3 +46,5 @@ http://www.studytonight.com/                                                    
 http://www.techworm.net/2016/06/top-7-highest-paying-it-certifications.html
 https://www.youtube.com/user/mybringback/playlists
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
+http://sixrevisions.com/javascript/free-javascript-books/
+https://hownot2code.com/2016/09/29/collection-of-cheat-sheets-for-programmers/

@@ -124,3 +124,8 @@ https://www.analyticsvidhya.com/blog/2016/04/15-read-books-entrepreneurs-data-sc
 http://blog.hackersonlineclub.com/2016/09/security-researcher-found-facebook.html
 http://www.rollingstone.com/culture/news/steve-jobs-in-1994-the-rolling-stone-interview-20110117           //explaing_oops_concept
 https://techcrunch.com/2016/09/27/ibm-releases-dataworks-to-give-enterprise-data-a-home-and-a-brain/
+http://botstory.co/top-10-slack-bots-developers/
+https://latesthackingnews.com/2014/09/12/sql-injection-tutorial-bumperpack/
+https://www.toptal.com/algorithms/interview-questions
+http://sixrevisions.com/javascript/things-about-jquery/
+http://www.hanselman.com/blog/WhatIsServerlessComputingExploringAzureFunctions.aspx
