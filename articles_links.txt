@@ -129,3 +129,4 @@ https://latesthackingnews.com/2014/09/12/sql-injection-tutorial-bumperpack/
 https://www.toptal.com/algorithms/interview-questions
 http://sixrevisions.com/javascript/things-about-jquery/
 http://www.hanselman.com/blog/WhatIsServerlessComputingExploringAzureFunctions.aspx
+https://fossbytes.com/googles-guardian-parisa-tabriz-the-security-princess/
