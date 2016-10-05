@@ -1,0 +1,52 @@
+http://www.technotification.com/2014/05/best-websites-to-learn-programming.html
+https://codingsec.net/2016/05/10-useful-websites-learn-programming/
+https://www.codecademy.com/
+https://www.developphp.com/             //not_only_php
+https://www.datacamp.com/
+https://thenewboston.com/
+https://www.edx.org/
+http://www.phptherightway.com/            //just_php
+http://www.codewars.com/
+https://www.learneroo.com/
+http://www.cyberprogrammers.net/
+https://www.youtube.com/user/webdevmentors/playlists     //java_python_bootstarp
+https://www.youtube.com/user/kudvenkat/playlists
+https://www.youtube.com/user/thenewboston/playlists
+https://www.youtube.com/user/QuentinWatt/playlists
+https://phpdelusions.net/pdo              //just_pdo_connection
+http://hashphp.org/
+http://electronicsforu.com/resources/15-free-ebooks-c-programming
+http://python.swaroopch.com/
+http://www.djangobook.com/en/2.0/index.html
+https://codingsec.net/2016/06/best-youtube-channels-follow/
+https://www.youtube.com/user/phpacademy/playlists
+https://www.youtube.com/user/Bigdataoss101/videos
+https://www.youtube.com/user/edurekaIN/playlists
+https://codingsec.net/2016/06/best-web-development-communities/
+http://www.cmarshall.net/MySoftware/ajax/Threads/index.html
+https://codingsec.net/2016/04/books-artificial/
+https://codingsec.net/2016/03/get-started-artificial-intelligence/
+https://www.youtube.com/user/ProgrammingKnowledge/playlists
+http://www.techworm.net/2016/06/top-7-highest-paying-it-certifications.html
+http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
+http://www.kdnuggets.com/                //data_courses
+https://www.google.com/about/careers/students/guide-to-technical-development.html
+http://exploitgate.com/follow-10-youtube-channels-learning-programming-coding-online/
+https://www.youtube.com/user/iPriceProductions/videos
+http://www.techworm.net/2016/07/10-youtube-channels-learning-ethical-hacking-course-online.html
+http://exploitgate.com/follow-10-youtube-channels-learning-programming-coding-online/
+http://www.ethicalhackx.com/ceh-v9-download/
+http://techean.com/best-pdf-hacking-ebooks/
+http://hyperiondev.com/
+https://www.alltechbuzz.net/best-podcasts-for-software-developers-and-programmers/
+http://techean.com/certified-ethical-hacker-full-course/
+http://www.viva64.com/en/a/0065/                                           //A Collection of Examples of 64-bit Errors in Real Programs
+https://codingsec.net/2016/08/websites-look-competitive-coding/
+http://www.studytonight.com/                                                    //R_Python_many
+http://www.techworm.net/2016/06/top-7-highest-paying-it-certifications.html
+https://www.youtube.com/user/mybringback/playlists
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
+http://sixrevisions.com/javascript/free-javascript-books/
+https://hownot2code.com/2016/09/29/collection-of-cheat-sheets-for-programmers/
+https://www.youtube.com/user/dan8se7en/playlists
+https://www.youtube.com/user/TheFreeOnlineCourses/playlists                //computer_Networks
